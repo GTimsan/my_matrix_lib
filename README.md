@@ -1,4 +1,4 @@
-# my_matrix
+# my_matrix_lib
 
 ### Реализация библиотеки matrix на языке С.
 
